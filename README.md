@@ -1,9 +1,22 @@
-<h1 align="center">Hi 👋, I'm Rahmatsyah Firdaus</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+### Hi 👋, I'm Rahmatsyah Firdaus
+#### A passionate Data Scientist with experience in building end-to-end machine learning projects.
 
-- 📝 I regularly write articles on [https://medium.com/@rahmatmamat1](https://medium.com/@rahmatmamat1)
+* Graduated from Mathematics.
+* Currently utilizing data to develop solutions.
+* I regularly write articles on [https://medium.com/@rahmatmamat1](https://medium.com/@rahmatmamat1)
 
-- 📫 How to reach me **rahmatmamat48@gmail.com**
+### Projects
+1. **Credit Risk Calssifier**: Develop a credit risk classifier service as an API with BentoML and GCP using XGBoost to predict the likelihood of default and assist credit risk management.
+2. **AdTracking Fraud Detection**: Create a fraud detection model using XGBoost on ad tracking data and deploy it as a service using FastAPI and GCP to detect and prevent fraudulent activity.
+3. **Customer Churn Prediction**: Design and build a customer churn prediction service using Logistic Regression model and deploy as an API with Flask and GCP to identify at-risk customers and mitigate the potential loss of revenue.
+4. **Lung Segmentation on Chest X-Ray Image**: Design and develop segmentation model using U-Net Architecture and deploy as an API with Flask and TensorFlow Serving.
+5. **Occupancy of isolation rooms and ICUs**: Designed and implemented a model to predict the occupancy of isolation rooms and ICUs in Jakarta using the ARIMA method to support decision-making in healthcare operations during the COVID pandemic.
+6. **Movie Recommendation System**: Develop a recommendation system using collaborative filtering techniques that improves customer retention and generate revenue.
+7. **Language Identifier**: Building model that can idetify languages using natural language processing techniques and Long Short-Term Memory (LSTM) model.
+8. **Rainfall Prediction in Makassar**: 
+9. **Customer Segmentation**: Utilize DBSCAN and K-Prototype methods to segment and analyze customer data to identify key segments for targeted marketing strategies.
+10. **Youtube Trending Videos Analysis**: Analyze the trending videos on YouTube by creating visualizations to gain insights into the types of videos that are trending and what keywords are commonly used in their titles.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
